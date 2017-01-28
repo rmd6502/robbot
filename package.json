@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/rmd6502/robbot#readme",
   "dependencies": {
-    "botkit": "^0.4.9"
+    "botkit": "^0.4.9",
+    "debug": "^2.6.0"
   },
   "devDependencies": {
     "mocha": "^3.2.0"
