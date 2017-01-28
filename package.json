@@ -1,0 +1,25 @@
+{
+  "name": "robbot",
+  "version": "0.0.1",
+  "description": "Slack Bot for doing various things under my name",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmd6502/robbot.git"
+  },
+  "author": "Robert M Diamond",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rmd6502/robbot/issues"
+  },
+  "homepage": "https://github.com/rmd6502/robbot#readme",
+  "dependencies": {
+    "botkit": "^0.4.9"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}
