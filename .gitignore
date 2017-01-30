@@ -32,6 +32,8 @@ build/Release
 # Dependency directories
 node_modules
 jspm_packages
+.AppleDouble
+.DS_Store
 
 # Optional npm cache directory
 .npm
